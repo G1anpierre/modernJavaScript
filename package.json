@@ -1,0 +1,20 @@
+{
+  "name": "modernJavaScript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G1anpierre/modernJavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/G1anpierre/modernJavaScript/issues"
+  },
+  "homepage": "https://github.com/G1anpierre/modernJavaScript#readme"
+}
